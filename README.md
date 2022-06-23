@@ -12,7 +12,7 @@ A program created with .Net 6.0 and project structure using DDD.
 
 ## Built with 🛠️
 
-* [.Net 6](https://dotnet.microsoft.com/download/dotnet/5.0) - Microsoft Framework
+* [.Net 6](https://dotnet.microsoft.com/download/dotnet/6.0) - Microsoft Framework
 * [FluentValidation](https://docs.fluentvalidation.net/en/latest/) - Fluent Validation
 * [Swagger](https://swagger.io/) - Swagger
 * [XUnit](https://xunit.net/) - XUnit
