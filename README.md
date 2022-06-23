@@ -1,21 +1,18 @@
 # InventoryManager with .Net6 and DDD
-An example that how to configure and consuming GraphQL in .Net 5.0 using Entity Framework Core and project structure using DDD.
+A program created with .Net 6.0 and project structure using DDD.
 
 ### Pre-requisites 📋
 
 * Visual Studio
-* .Net 5.0
-* SQL Server
+* .Net 6.0
 
 ## Running tests ⚙️
 
-* Create de database and tables.
-* Start the project GraphQL.WebApi.
-* Start the project GraphQL.WebClient.
-* The GraphQL.WebClient use the GraphQL.WebApi to get data from database.
+* Execute the tests in the InventoryManager.WebApi.Tests
 
 ## Built with 🛠️
 
-* [HotChocolate](https://github.com/ChilliCream/hotchocolate) - The framework based in GraphQL.
-* [.Net 5](https://dotnet.microsoft.com/download/dotnet/5.0) - Microsoft Framework
-* [EntityFramework Core](https://docs.microsoft.com/es-es/ef/core/) - Microsoft Entity Framework to access database.
+* [.Net 6](https://dotnet.microsoft.com/download/dotnet/5.0) - Microsoft Framework
+* [FluentValidation](https://docs.fluentvalidation.net/en/latest/) - Fluent Validation
+* [Swagger](https://swagger.io/) - Swagger
+* [XUnit](https://xunit.net/) - XUnit
